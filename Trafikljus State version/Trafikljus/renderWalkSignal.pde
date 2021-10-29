@@ -16,7 +16,7 @@ void renderWalkSignal(boolean walk) {
   if (walk) {
     fill(greenLight);
     ellipse(450, 250, 75, 75);
-    image(redWalkMan, 450, 250);
+    image(greenWalkMan, 450, 250);
     fill(offLight);
     ellipse(450, 150, 75, 75);
   } else {

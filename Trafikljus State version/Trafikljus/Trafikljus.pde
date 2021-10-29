@@ -25,7 +25,7 @@ void setup() {
   redWalkMan = loadImage("Images/redWalkMan.png");
   greenWalkMan= loadImage("Images/greenWalkMan.png");
   redCircle.resize(90, 0);
-  yellowCircle.resize(135, 0);
+  yellowCircle.resize(150, 0);
   greenCircle.resize(140, 0);
   redWalkMan.resize(75, 0);
   greenWalkMan.resize(40, 0);
